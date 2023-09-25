@@ -4,9 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:hacktoberfest_app/list.dart';
 import 'package:hacktoberfest_app/loadingscreen.dart';
 
-void main() {
-  runApp(MyApp());
-}
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
